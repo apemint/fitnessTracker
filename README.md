@@ -1,7 +1,8 @@
 # fitnessTracker
 
 ## Description
-This app allows the user to enter a new workout, update their workouts and view there workouts tin a dadhboard.
+A simple fitness tracker for tracking cardio and strength workouts.
+The app allows the user to enter a new workout, update their workouts and view there workouts in a dadhboard.
 
 ## Deployed Project
 [Repo Link](https://github.com/apemint/fitnessTracker) 
